@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "608511239736",
+    "project_id": "solidarity-app-25bcf",
+    "storage_bucket": "solidarity-app-25bcf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608511239736:android:d88479d2ae3a3469cb68cd",
+        "android_client_info": {
+          "package_name": "com.goodone.solidarity_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608511239736-mjj083sj5uqqi69tc482r70u53uf6j5e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.goodone.solidarity_app",
+            "certificate_hash": "026850a6daa4ab172ec49a92d58c3afd293d1379"
+          }
+        },
+        {
+          "client_id": "608511239736-vm6e3g0emfu96rjn7uqto75l8chqm1f2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1bqIMUjjKQIjSTy-09eripNCpvwR5t_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "608511239736-vm6e3g0emfu96rjn7uqto75l8chqm1f2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
